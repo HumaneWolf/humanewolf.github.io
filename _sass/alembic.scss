@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+// Import frameworks & theme styles
+@import
+  "normalize",
+  "settings",
+  "sassline-base",
+  "syntax",
+  "flex",
+  "theme"
+;
+
+// Added customizations
+
+h1 {
+  font-size: 1.4em !important;
+}
+
+h2 {
+  font-size: 1.3em !important;
+}
+
+h3 {
+  font-size: 1.2em !important;
+}
+
+h4 {
+  font-size: 1.1em !important;
+}
+
+h5 {
+  font-size: 1em !important;
+}
+
+h6 {
+  font-size: 0.9em !important;
+}
+
+.feature p {
+  font-size: 1.2em;
+}

@@ -1,0 +1,6 @@
+{% for category in site.categories %}
+  {% assign category_name = category | first %}
+  <ul>
+    <li><a href="/categories/#{{ category_name | slugify }}">{{ category_name }}</a></li>
+  </ul>
+{% endfor %}
