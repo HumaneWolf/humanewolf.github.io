@@ -8,4 +8,4 @@ I'm a Norwegian developer and computer science student, with an interest in info
 
 I occasionally write this blog, and I might post about things on Twitter as well.
 
-I can be reached via email, at kristian@kristianht.com.
+I can be reached via email, at kristian@humanewolf.com, or via my [Twitter](https://twitter.com/humanewolf).

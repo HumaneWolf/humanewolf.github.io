@@ -4,3 +4,13 @@ styles: true
 ---
 
 @import "alembic";
+
+.sitename-large {
+    font-size: 20px;
+}
+
+.sitename-small {
+    font-size: 15px;
+    opacity: 0.5;
+    padding-top: 13px;
+}
