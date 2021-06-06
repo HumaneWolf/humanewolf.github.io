@@ -73,7 +73,7 @@ url: "https://humanewolf.com/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 # repo: "https://github.com/daviddarnes/alembic"
 email: "kristian@humanewolf.com"
-disqus: "humanewolf" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+# disqus: "humanewolf" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
 service_worker: false # Will turn off the service worker if set to false
